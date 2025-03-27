@@ -10,7 +10,7 @@ Thanks for taking interest in my presentation today!
 
 *BOOK SOURCES MENTIONED ON THE PRESENTATION:*
 
-_(none of the links is sponsored in any way!)_
+_(none of the links are sponsored in any way!)_
 
 *Team Topologies: Organizing Business and Technology Teams for Fast Flow* -> [Link to author](https://teamtopologies.com/)
 
