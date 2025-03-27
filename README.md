@@ -1,12 +1,10 @@
 # sredays-london-2025
-Slides and notes for SREDays London 2025 Presentation 
+Slides and notes for SREDay London 2025 Presentation 
 
 No More Heroes - Why Team Composition is a BIG Deal
 ---
 
 Thanks for taking interest in my presentation today!
-
-I hope you didn't got very disappointed with my github :)
 
 ---
 
